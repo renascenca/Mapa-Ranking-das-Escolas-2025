@@ -1,7 +1,7 @@
 
 const config = {
-    style: "mapbox://styles/mapbox/light-v11",
-    accessToken: "pk.eyJ1Ijoic2Fsb21lLWVzdGV2ZXMiLCJhIjoiY204aGk5YzA3MDJnODJpc2I5Y3YwcHRnYiJ9.aTwjysqDNNh3KnCofj05wQ",
+    style: "mapbox://styles/radio-renascenca/cmvgn89le00e001s5f2vj8ueo",
+    accessToken: "pk.eyJ1IjoicmFkaW8tcmVuYXNjZW5jYSIsImEiOiJjbXZnbmd4dzMwMWUxMnhzZjlsb2g2bnN5In0.2OjQwFIosQB_h2b_kiS5Gg",
     CSV: "https://raw.githubusercontent.com/renascenca/Mapa-Ranking-das-Escolas-2025/main/Escolas2025.csv",
     center: [-11.0897451, 39.7035119], //Lng, Lat
     zoom: 6, //Default zoom
