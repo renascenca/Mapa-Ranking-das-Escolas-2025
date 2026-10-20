@@ -6,7 +6,7 @@ const config = {
     center: [-11.0897451, 39.7035119], //Lng, Lat
     zoom: 6, //Default zoom
     title: "Onde ficam as escolas do Ranking?",
-    description: "Navegue no mapa para explorar as escolas - públicas e privadas - que fazem parte do Ranking das Escolas da Renascença, com base nos exames nacionais de 2024.",
+    description: "Navegue no mapa para explorar as escolas - públicas e privadas - que fazem parte do Ranking das Escolas da Renascença, com base nos exames nacionais de 2025.",
     sideBarInfo: ["Escola_completo", "Tipo de escola", "Média Texto"],
     popupInfo: ["Escola_completo"],
     filters: [
